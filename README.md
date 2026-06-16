@@ -253,17 +253,13 @@ ecommerce-bi-platform/
 
 ---
 
-## Auteurs
 
-- [Etudiant 1] — ETL & Data Warehouse
-- [Etudiant 2] — Kafka Streaming
-- [Etudiant 3] — Machine Learning & Power BI
-
----
 
 ## Captures d'écran
+<img width="855" height="497" alt="image" src="https://github.com/user-attachments/assets/ed54f938-04e2-4e0f-95ff-8dd5592d4f03" />
+<img width="831" height="492" alt="image" src="https://github.com/user-attachments/assets/f835f16e-a583-47e1-948e-cc670434e29e" />
+<img width="831" height="459" alt="image" src="https://github.com/user-attachments/assets/50af1c73-7db5-4b1a-a5cd-232a942cd021" />
+<img width="852" height="498" alt="image" src="https://github.com/user-attachments/assets/55f8aff5-7b78-4e7a-af2a-954b2477976e" />
 
-> *[Placeholder — Ajouter des captures Power BI]*
 
-![Architecture](docs/architecture.png)
-![Dashboard](docs/dashboard_powerbi.png)
+
